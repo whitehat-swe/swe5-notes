@@ -2,7 +2,7 @@ module.exports = {
   title: 'SWE5 Notes',
   tagline: 'A collection of notes',
   url: 'https://whitehat-swe.github.io',
-  baseUrl: '/swe5-notes',
+  baseUrl: '/swe5-notes/',
   favicon: 'img/favicon.ico',
   organizationName: 'whitehat-swe', // Usually your GitHub org/user name.
   projectName: 'swe5-notes', // Usually your repo name.
