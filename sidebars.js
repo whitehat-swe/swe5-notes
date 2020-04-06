@@ -1,6 +1,9 @@
 module.exports = {
-  someSidebar: {
-    Docusaurus: ['doc1', 'doc2', 'doc3'],
-    Features: ['mdx'],
+  defaultSidebar: {
+    JavaScript: ['javascript/arrow-functions'],
+    React: [
+      { Components: ['react/components/props'] },
+      { Hooks: ['react/hooks/use-state'] }
+    ]
   },
 };
