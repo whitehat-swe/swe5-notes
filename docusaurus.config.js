@@ -1,11 +1,11 @@
 module.exports = {
   title: 'SWE5 Notes',
   tagline: 'A collection of notes',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://whitehat-swe.github.io',
+  baseUrl: '/swe5-notes',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'whitehat-swe', // Usually your GitHub org/user name.
+  projectName: 'swe5-notes', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'SWE5 Notes',
@@ -65,7 +65,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/whitehat-swe/swe5-notes',
             },
             {
               label: 'Twitter',
